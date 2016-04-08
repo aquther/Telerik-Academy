@@ -1,0 +1,6 @@
+E:\VS_Projects\OOP\Telerik\LongSequence\LongSequence\bin\Debug\LongSequence.exe.config
+E:\VS_Projects\OOP\Telerik\LongSequence\LongSequence\bin\Debug\LongSequence.exe
+E:\VS_Projects\OOP\Telerik\LongSequence\LongSequence\bin\Debug\LongSequence.pdb
+E:\VS_Projects\OOP\Telerik\LongSequence\LongSequence\obj\Debug\LongSequence.csprojResolveAssemblyReference.cache
+E:\VS_Projects\OOP\Telerik\LongSequence\LongSequence\obj\Debug\LongSequence.exe
+E:\VS_Projects\OOP\Telerik\LongSequence\LongSequence\obj\Debug\LongSequence.pdb
