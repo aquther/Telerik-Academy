@@ -1,0 +1,5 @@
+E:\VS_Projects\OOP\Telerik\HW2DataTypesAndVariables\PrintASCIITable\bin\Debug\PrintASCIITable.exe.config
+E:\VS_Projects\OOP\Telerik\HW2DataTypesAndVariables\PrintASCIITable\bin\Debug\PrintASCIITable.exe
+E:\VS_Projects\OOP\Telerik\HW2DataTypesAndVariables\PrintASCIITable\bin\Debug\PrintASCIITable.pdb
+E:\VS_Projects\OOP\Telerik\HW2DataTypesAndVariables\PrintASCIITable\obj\Debug\PrintASCIITable.exe
+E:\VS_Projects\OOP\Telerik\HW2DataTypesAndVariables\PrintASCIITable\obj\Debug\PrintASCIITable.pdb
